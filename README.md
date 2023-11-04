@@ -1,2 +1,2 @@
-# Australia-Weather-forecast-using-RNN
-Predict the weather of Canberra (the capital of Australia) based on previous records using Recurrent Neural Network (RNN) Algorithm.
+# Australia-Weather-forecast
+Predict the weather of Canberra, Sydney, and Melbourne based on previous records using Recurrent Neural Network (RNN) Algorithm.
